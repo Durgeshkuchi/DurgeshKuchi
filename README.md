@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 
 ### 🔧 Technologies & Tools
 - **Frontend:** React, Angular, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js, GraphQL
+- **Backend:** Node.js, Java, Express.js, GraphQL
 - **Databases:** MongoDB, MsSQL
 - **Version Control:** Git, GitHub
 - **Other Tools:** Docker, Jenkins, AWS
