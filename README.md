@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 - **Other Tools:** Docker, Jenkins, AWS
 
 ### 🌍 Connect with Me
-- **LinkedIn:** [Durgesh Kuchi](https://www.linkedin.com/in/durgeshkuchi/)
 - **Email:** [durgeshkuchi.react@gmail.com](mailto:durgeshkuchi.react@gmail.com)
 
 ---
