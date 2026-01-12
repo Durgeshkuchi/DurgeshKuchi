@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Durgesh Kuchi!
 
-## Full Stack Developer | 💻 React, Angular, Node, GraphQL, ExpressJS, MongoDB, MsSQL
+## Full Stack Developer | 💻 React, Angular, Node, Java, GraphQL, ExpressJS, MongoDB, MsSQL
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a strong background in building dynamic, responsive, and scalable web applications. My expertise spans across both front-end and back-end technologies, enabling me to create seamless and efficient user experiences.
 
